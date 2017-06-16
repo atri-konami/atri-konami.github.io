@@ -6,10 +6,37 @@
     <description>Recent content on atri-konami.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 05 Feb 2017 07:51:49 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 17:12:08 +0900</lastBuildDate>
     
 	<atom:link href="https://atri-konami.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>https://atri-konami.github.io/blog/2017/06/test/</link>
+      <pubDate>Fri, 16 Jun 2017 17:12:08 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/blog/2017/06/test/</guid>
+      <description>テスト投稿． あああああああああああああああああああああああああああああああああああ あああああああああああああああああああああああああああああ</description>
+    </item>
+    
+    <item>
+      <title>About Me(for casual)</title>
+      <link>https://atri-konami.github.io/about/casual/</link>
+      <pubDate>Fri, 16 Jun 2017 16:45:48 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/about/casual/</guid>
+      <description>Indoor アニメ かわいい・かっこいい なんでもござれ．筋が通ってればだいたい好き． シリーズ物だとガンダムはファーストから一通り見てる ゲーム 昔はRPG(</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://atri-konami.github.io/about/</link>
+      <pubDate>Fri, 16 Jun 2017 15:41:10 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/about/</guid>
+      <description>Twitter(casual) Twitter(formal) Github See Also: Qiita 所属/経歴 学歴 2013/03: 麻布高等学校卒業 2013/04〜2014/03: 東京工業大学 第5類 2014/04〜2017/03: 東京工業大学 情</description>
+    </item>
     
     <item>
       <title>Home</title>
@@ -17,11 +44,8 @@
       <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
       
       <guid>https://atri-konami.github.io/home/</guid>
-      <description>Summary: Crab is a clean Hugo theme for websites. Its features include responsiveness, nested menu support, two-column layout, tag and blog article support.
- Welcome to Crab! Crab is a clean Hugo theme for websites.
-Some of its features:
- Responsive design &amp;ndash; view it on mobile Nested menus &amp;ndash; try the menu above Two-column layout Tags Blog articles  A very popular quote:
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>atri&amp;rsquo;s Home Page
+ About Me Blog  </description>
     </item>
     
   </channel>
