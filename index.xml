@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>atri-konami.github.io</title>
+    <link>http://atri-konami.github.io/</link>
+    <description>Recent content on atri-konami.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 05 Feb 2017 07:51:49 +0100</lastBuildDate>
+    
+	<atom:link href="http://atri-konami.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>http://atri-konami.github.io/home/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>http://atri-konami.github.io/home/</guid>
+      <description>Summary: Crab is a clean Hugo theme for websites. Its features include responsiveness, nested menu support, two-column layout, tag and blog article support.
+ Welcome to Crab! Crab is a clean Hugo theme for websites.
+Some of its features:
+ Responsive design &amp;ndash; view it on mobile Nested menus &amp;ndash; try the menu above Two-column layout Tags Blog articles  A very popular quote:
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
