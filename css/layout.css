@@ -6,6 +6,23 @@ h1, h2, h3, h4, h5, h6 {
   font-family: arial, sans-serif;
 }
 
+.vis-header {
+  overflow: hidden;
+  width: 90%;
+  height: 200px;
+}
+
+.vis-header > img {
+  width: 100%;
+  height: auto;
+}
+
+.bs-trim {
+  -webkit-transform: translateY(-170px);
+  -ms-transform: translateY(-170px);
+  transform: translateY(-170px);
+}
+
 .spaced-list > li {
   margin-bottom: 5px;
 }
