@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on atri-konami.github.io</title>
+    <link>https://atri-konami.github.io/about/</link>
+    <description>Recent content in Abouts on atri-konami.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 16 Jun 2017 16:45:48 +0900</lastBuildDate>
+    
+	<atom:link href="https://atri-konami.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me(for casual)</title>
+      <link>https://atri-konami.github.io/about/casual/</link>
+      <pubDate>Fri, 16 Jun 2017 16:45:48 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/about/casual/</guid>
+      <description>Indoor アニメ かわいい・かっこいい なんでもござれ．筋が通ってればだいたい好き． シリーズ物だとガンダムはファーストから一通り見てる ゲーム 昔はRPG(</description>
+    </item>
+    
+  </channel>
+</rss>

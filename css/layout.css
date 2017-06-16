@@ -1,0 +1,29 @@
+body {
+  font-family: arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: arial, sans-serif;
+}
+
+.spaced-list > li {
+  margin-bottom: 5px;
+}
+
+.icon-list > div {
+  display: inline-block;
+  margin: auto 10px;
+}
+
+.icon-list p {
+  text-align: center !important;
+}
+
+.round-icon {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #808080;
+}
