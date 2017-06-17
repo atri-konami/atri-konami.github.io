@@ -8,8 +8,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .vis-header {
   overflow: hidden;
-  width: 90%;
-  height: 200px;
+  width: 100%;
 }
 
 .vis-header > img {
@@ -18,9 +17,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bs-trim {
-  -webkit-transform: translateY(-170px);
-  -ms-transform: translateY(-170px);
-  transform: translateY(-170px);
+  -webkit-transform: translateY(-40%);
+  -ms-transform: translateY(-40%);
+  transform: translateY(-40%);
 }
 
 .spaced-list > li {

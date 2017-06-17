@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>test</title>
+      <title>テスト</title>
       <link>https://atri-konami.github.io/blog/2017/06/test/</link>
       <pubDate>Fri, 16 Jun 2017 17:12:08 +0900</pubDate>
       
@@ -44,8 +44,7 @@
       <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
       
       <guid>https://atri-konami.github.io/home/</guid>
-      <description>atri&amp;rsquo;s Home Page
- About Me Blog  </description>
+      <description>atri&amp;rsquo;s Home Page About Me Blog このサイトは静的サイトジェネレータhugoとそのテーマであるcrabによって作られています．</description>
     </item>
     
   </channel>
