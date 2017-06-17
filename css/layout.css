@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5, h6 {
   height: auto;
 }
 
+
 .bs-trim {
   -webkit-transform: translateY(-40%);
   -ms-transform: translateY(-40%);
@@ -42,4 +43,8 @@ h1, h2, h3, h4, h5, h6 {
   border-width: 1px;
   border-style: solid;
   border-color: #808080;
+}
+
+.round-icon:hover {
+    opacity: 0.7
 }
