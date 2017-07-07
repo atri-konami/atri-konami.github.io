@@ -6,18 +6,18 @@
     <description>Recent content on atri-konami.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 16 Jun 2017 17:12:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 13:54:25 +0900</lastBuildDate>
     
 	<atom:link href="https://atri-konami.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>テスト</title>
-      <link>https://atri-konami.github.io/blog/2017/06/test/</link>
-      <pubDate>Fri, 16 Jun 2017 17:12:08 +0900</pubDate>
+      <title>atri-konami.github.ioを立ち上げました</title>
+      <link>https://atri-konami.github.io/post/my-first-article/</link>
+      <pubDate>Fri, 07 Jul 2017 13:54:25 +0900</pubDate>
       
-      <guid>https://atri-konami.github.io/blog/2017/06/test/</guid>
-      <description>テスト投稿． あああああああああああああああああああああああああああああああああああ あああああああああああああああああああああああああああああ</description>
+      <guid>https://atri-konami.github.io/post/my-first-article/</guid>
+      <description>これが最初の記事です．テスト投稿なんてなかった． このサイトの目的 そろそろ就活とかも始まるので，改めて自己分析というか，自分の性質をまとめて公</description>
     </item>
     
     <item>
@@ -26,16 +26,7 @@
       <pubDate>Fri, 16 Jun 2017 16:45:48 +0900</pubDate>
       
       <guid>https://atri-konami.github.io/about/casual/</guid>
-      <description>Twitter(casual) Indoor アニメ かわいい・かっこいい なんでもござれ．筋が通ってればだいたい好き． シリーズ物だとガンダムはファーストから一通り見てる ゲーム 昔はRPG</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://atri-konami.github.io/about/</link>
-      <pubDate>Fri, 16 Jun 2017 15:41:10 +0900</pubDate>
-      
-      <guid>https://atri-konami.github.io/about/</guid>
-      <description>Twitter(formal) Github See Also: Qiita 所属/経歴 学歴 2013/03: 麻布高等学校卒業 2013/04〜2014/03: 東京工業大学 第5類 2014/04〜2017/03: 東京工業大学 情報</description>
+      <description>Twitter(casual) Indoor Anime SoltyRei ガン×ソード ef - a tale of {memories, melodies} - SHIROBAKO 冴えない彼女の育て方(原作のほうが好き) 機動戦士ガンダムシリーズ Game Final Fantasyシリーズ(1〜10,</description>
     </item>
     
     <item>
@@ -44,7 +35,7 @@
       <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
       
       <guid>https://atri-konami.github.io/home/</guid>
-      <description>atri&amp;rsquo;s Home Page About Me Blog このサイトは静的サイトジェネレータhugoとそのテーマであるcrabによって作られています．</description>
+      <description>atri&amp;rsquo;s Home Page このサイトは静的サイトジェネレータhugoで作られています．</description>
     </item>
     
   </channel>

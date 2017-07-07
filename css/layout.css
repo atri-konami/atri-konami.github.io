@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: arial, sans-serif;
 }
 
+#name {
+    text-indent: 1em;
+}
+
 .vis-header {
   overflow: hidden;
   width: 100%;
@@ -25,9 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 .spaced-list > li {
   margin-bottom: 5px;
 }
-
 .icon-list {
-  text-align: center;
 }
 
 .icon-list > div {
@@ -40,8 +42,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .round-icon {
-  width: 128px;
-  height: 128px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   border-width: 1px;
   border-style: solid;

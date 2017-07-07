@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>お知らせ on atri-konami.github.io</title>
+    <link>https://atri-konami.github.io/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+    <description>Recent content in お知らせ on atri-konami.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 07 Jul 2017 13:54:25 +0900</lastBuildDate>
+    
+	<atom:link href="https://atri-konami.github.io/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>atri-konami.github.ioを立ち上げました</title>
+      <link>https://atri-konami.github.io/post/my-first-article/</link>
+      <pubDate>Fri, 07 Jul 2017 13:54:25 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/post/my-first-article/</guid>
+      <description>これが最初の記事です．テスト投稿なんてなかった． このサイトの目的 そろそろ就活とかも始まるので，改めて自己分析というか，自分の性質をまとめて公</description>
+    </item>
+    
+  </channel>
+</rss>
