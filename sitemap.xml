@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://atri-konami.github.io/post/y-intern/</loc>
+    <lastmod>2017-09-11T11:04:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atri-konami.github.io/post/about-ff14/</loc>
     <lastmod>2017-08-17T16:01:22+09:00</lastmod>
   </url>
@@ -35,7 +40,7 @@
   
   <url>
     <loc>https://atri-konami.github.io/post/</loc>
-    <lastmod>2017-08-17T16:01:22+09:00</lastmod>
+    <lastmod>2017-09-11T11:04:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,7 +52,7 @@
   
   <url>
     <loc>https://atri-konami.github.io/</loc>
-    <lastmod>2017-08-17T16:01:22+09:00</lastmod>
+    <lastmod>2017-09-11T11:04:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,8 +63,20 @@
   </url>
   
   <url>
+    <loc>https://atri-konami.github.io/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</loc>
+    <lastmod>2017-09-11T11:04:51+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atri-konami.github.io/tags/%E3%82%B2%E3%83%BC%E3%83%A0/</loc>
     <lastmod>2017-08-17T16:01:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atri-konami.github.io/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2017-09-11T11:04:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   

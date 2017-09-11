@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>インターン on atri-konami.github.io</title>
+    <link>https://atri-konami.github.io/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</link>
+    <description>Recent content in インターン on atri-konami.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 11 Sep 2017 11:04:51 +0900</lastBuildDate>
+    
+	<atom:link href="https://atri-konami.github.io/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>某Y社のインターンにいってきた話</title>
+      <link>https://atri-konami.github.io/post/y-intern/</link>
+      <pubDate>Mon, 11 Sep 2017 11:04:51 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/post/y-intern/</guid>
+      <description>8/21〜9/1の内，平日10日間で某Y社のインターンシップに行ってきました．(一応検索よけです．察してください) 特にまとめる意味は無いかと</description>
+    </item>
+    
+  </channel>
+</rss>
