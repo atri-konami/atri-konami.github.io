@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>就活 on atri-konami.github.io</title>
+    <link>https://atri-konami.github.io/tags/%E5%B0%B1%E6%B4%BB/</link>
+    <description>Recent content in 就活 on atri-konami.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 08 Apr 2018 23:28:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://atri-konami.github.io/tags/%E5%B0%B1%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>就活を始めて</title>
+      <link>https://atri-konami.github.io/post/beginning-of-jobhunting/</link>
+      <pubDate>Sun, 08 Apr 2018 23:28:47 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/post/beginning-of-jobhunting/</guid>
+      <description>就活を始めた 修論の構想発表も終わり，3月から就活を始めました…が，ここにきて就活ってなんだ…？となっているのでまぁいろいろポエムとか愚痴とか</description>
+    </item>
+    
+  </channel>
+</rss>
