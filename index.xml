@@ -6,10 +6,19 @@
     <description>Recent content on atri-konami.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 08 Apr 2018 23:28:47 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 15:29:53 +0900</lastBuildDate>
     
 	<atom:link href="https://atri-konami.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gpm-sinatra</title>
+      <link>https://atri-konami.github.io/product/gpm-sinatra/</link>
+      <pubDate>Tue, 10 Apr 2018 15:29:53 +0900</pubDate>
+      
+      <guid>https://atri-konami.github.io/product/gpm-sinatra/</guid>
+      <description>GooglePlayMusicで再生している曲をジャケット画像付きでTweetするサービス．ソースはGithub ブックマークレットをお求めの</description>
+    </item>
     
     <item>
       <title>就活を始めて</title>
