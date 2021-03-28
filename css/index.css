@@ -1,0 +1,38 @@
+.sns-icons {
+    display: flex;
+    align-items: center;
+}
+
+.sns-icons a {
+    display: block;
+    margin-right: 10px;
+}
+
+.sns-icons a:hover {
+    border-bottom: none;
+}
+
+ul ul {
+    margin-bottom: 0;
+}
+
+li a:hover {
+    border-bottom: none;
+}
+
+li a {
+    vertical-align: middle;
+    display: inline-block;
+    height: 2.1rem;
+    margin-left: 10px;
+}
+
+li img {
+    width: 2.1rem;
+    margin-bottom: 0px;
+}
+
+.sns-icons img {
+    width: 3.8rem;
+    margin-bottom: 0px;
+}
